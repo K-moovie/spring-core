@@ -1,1 +1,1 @@
-# spring.core
+# spring-core

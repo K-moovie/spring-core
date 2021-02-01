@@ -6,7 +6,7 @@ import hello.springcore.member.Member;
 import hello.springcore.member.MemberRepository;
 import hello.springcore.member.MemoryMemberRepository;
 
-public class OderServiceImpl implements OrderService{
+public class OrderServiceImpl implements OrderService{
 
     private final MemberRepository memberRepository = new MemoryMemberRepository();
     private final DiscountPolicy discountPolicy = new FixDiscountPolicy();

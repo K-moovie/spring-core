@@ -1,4 +1,4 @@
-package beandefinition;
+package hello.springcore.beandefinition;
 
 import hello.springcore.order.AppConfig;
 import org.junit.jupiter.api.DisplayName;

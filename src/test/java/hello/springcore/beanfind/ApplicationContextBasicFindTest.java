@@ -2,8 +2,7 @@ package hello.springcore.beanfind;
 
 import hello.springcore.member.MemberService;
 import hello.springcore.member.MemberServiceImpl;
-import hello.springcore.order.AppConfig;
-import org.assertj.core.api.Assertions;
+import hello.springcore.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;

@@ -1,6 +1,6 @@
 package hello.springcore.member;
 
-import hello.springcore.order.AppConfig;
+import hello.springcore.AppConfig;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

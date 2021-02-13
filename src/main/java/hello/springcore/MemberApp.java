@@ -1,6 +1,8 @@
-package hello.springcore.member;
+package hello.springcore;
 
-import hello.springcore.order.AppConfig;
+import hello.springcore.member.Grade;
+import hello.springcore.member.Member;
+import hello.springcore.member.MemberService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

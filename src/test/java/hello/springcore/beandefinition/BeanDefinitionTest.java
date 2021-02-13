@@ -1,6 +1,6 @@
 package hello.springcore.beandefinition;
 
-import hello.springcore.order.AppConfig;
+import hello.springcore.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;

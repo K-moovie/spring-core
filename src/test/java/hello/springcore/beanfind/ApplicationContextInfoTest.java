@@ -2,7 +2,7 @@ package hello.springcore.beanfind;
 
 // JUnit5 부터는 범위지정자 public 지정을 할 필요가 없다.
 
-import hello.springcore.order.AppConfig;
+import hello.springcore.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;
